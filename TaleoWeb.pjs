@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="12.0" key="{4098EFC7-AE5A-4434-BFA0-05FC77878975}">
+	<children>
+		<child name="TaleoWeb" key="{7BCFDBB7-71C0-4AD0-A0E2-BB3360EE6EEB}" type="Project" typeId="{362A8EE5-675E-43A9-869D-06ECE80B0CB4}" pluginName="">
+			<data path="TaleoWeb\TaleoWeb.mds" />
+		</child>
+	</children>
+	<folders />
+	<testItems key="{404D4ABF-B696-4C50-999E-BC9A0EB2FB95}">
+		<children>
+			<testItem key="{7BCFDBB7-71C0-4AD0-A0E2-BB3360EE6EEB}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{73EAF114-9899-4949-A372-5065DEB8BF7F}">
+		<data Version="3">
+			<Items>
+				<Variable Name="Var1" Type="{123F0C0F-44B4-4BAF-B0E6-F3F89FD873B5}" Local="False">
+					<DefValue />
+				</Variable>
+			</Items>
+		</data>
+	</variables>
+	<analysis key="{23E7A989-2A05-4861-8590-F0F2AD171474}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
